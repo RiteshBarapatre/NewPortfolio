@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a passionate web developer studying at Kamla Nehru College. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,10 +33,11 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "MERN Stack",
+  "State Management",
+  "Deployment",
+  "Python",
+  "App Development",
 ];
 
 /**
@@ -45,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm a skilled MERN stack developer specializing in JavaScript, MongoDB, Express.js, React.js, and Node.js. With a focus on building scalable web applications, I excel in designing RESTful APIs, optimizing front-end performance, and creating responsive user interfaces. My goal is to deliver robust solutions that meet client needs through continuous learning and a commitment to staying current with industry trends.";
 
 const About = () => {
   return (
